@@ -1,0 +1,197 @@
+Orario;Giorni;Fermate
+;;
+;;
+;;
+06:30;L-S;Casarene (Squibb), Fontana Ceraso, Pantanello, Tofe Pistone, Osteria della Fontana, Quattro Strade, Sub Sud, Porta S. Francesco, S. Giorgetto
+06:55;L-V;Casarene (Squibb), Cantina Sociale, Tofe Pistone, Osteria La Noce, Via Casilina, km. 67, Strada Provinciale Anagni/Ferentino (Muraglione), Cardinali, Tufano, Vallevona, S. Giorgetto
+07:20;L-V;Casarene (Squibb), Bivio Morolo, Fosso del Lupo, Pantanello, Osteria della Fontana, Quattro Strade, Sub Nord, Piscina, S. Giorgetto, Vignola
+07:20;S;Casarene (Squibb), Fosso del Lupo, Pantanello, Tofe Pistone, Osteria della Fontana, San Bartolomeo, Faito, Ponte Piano, Sub Nord, Cimitero , Vignola
+09:00;L-S;Casarene (Squibb), Bivio Morolo, Fosso del Lupo, Pantanello, Tofe Pistone, Osteria della Fontana, Quattro Strade, Sub Nord, Cimitero, Vignola
+11:35;L-S;Casarene (Squibb), Cantina Sociale, Osteria della Fontana, Quattro Strade, Sub Sud, S. Giorgetto, Vignola
+12:40;L-S;Casarene (Squibb), Via Casalotto, Osteria della Fontana, Quattro Strade, Sub Nord, Piscina, S. Giorgetto, Vignola
+17:30;L-S;Casarene (Squibb), Cantina Sociale, Osteria della Fontana, Cava S. Magno, Sub Sud, Piscina, S. Giorgetto, Vignola
+;;
+;;
+;;
+06:55;L-S;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Quattro Strade, Via Collacciano, Osteria della Fontana, Cantina Sociale, Casarene (Squibb)
+08:35;L-S;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Quattro Strade, Via Collacciano, Osteria della Fontana, Cantina Sociale, Casarene (Squibb)
+10:55;L-S;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Quattro Strade, Via Collacciano, Osteria della Fontana, Osteria La Noce, Pantanello, Fosso del Lupo, Casarene (Squibb)
+12:00;L-S;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Quattro Strade, Via Collacciano, Osteria della Fontana, Osteria La Noce, Pantanello, Fosso del Lupo, Casarene (Squibb)
+13:30;L-S;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Quattro Strade, Osteria della Fontana, Casarene (Squibb), Fosso del Lupo, Pantanello, Osteria La Noce, Cantina Sociale, Casarene (Squibb)
+14:05;L-S;S. Giorgetto, Sub Sud, Porta S. Francesco, Quattro Strade, Via Collacciano, Osteria della Fontana, Osteria La Noce, Pantanello, Fosso del Lupo, Bivio Morolo, Casarene (Squibb)
+17:05;L-S;Vignola, Strada Provinciale Anagni/Ferentino (Muraglione), Casilina, km.67, Osteria La Noce, Pantanello, Fontana Ceraso, Casarene (Squibb)
+20:00;L-S;Vignola, S. Giorgetto, Sub Sud, Sub Nord, Vallevona, Tufano, Osteria La Noce, Pantanello, Fonte Ceraso, Casarene
+;;
+;;
+;;
+06:40;L-S;Bivio Fiuggi (Coop), S. Filippo, Prato, Vignola
+07:20;L-V;S. Giorgetto, Sub Sud, Porta S. Francesco, Bivio Fiuggi (Coop), Strada Regionale Anticolana, Bivio S. Filippo, Prato, Vignola
+07:30;S;Vignola, Strada Provinciale Anagni/Acuto, Ponte Cavatole, Acqua Cetosa, S. Filippo, Vignola
+07:50;L-V;Vignola, S. Giorgetto, Sub Sud, Supermercato Coop, Ponte Piano, Bivio S. Filippo, Prato, Vignola, Sub Sud, Sub Nord, Piscina, S. Giorgetto, Vignola
+10:50;L-S;Vignola, S. Giorgetto, Sub Sud, Ponte Piano, S. Filippo, Ponte Cavatole , Acqua Cetosa, S. Filippo, Vignola
+12:10;L-S;Vignola, S. Giorgetto, Sub Sud, Supermercato Coop, Ponte Piano, Bivio S. Filippo, Prato, Vignola
+13:30;L-S;Vignola, S. Giorgetto, Sub Sud, Supermercato Coop, Ponte Piano, Bivio S. Filippo, Prato, Vignola
+14:00;L-V;Casarene (Squibb), Osteria della Fontana, Quattro Strade, Sub Sud, Porta S. Francesco, S. Giorgetto, Monti, Prato, S. Filippo, Bivio S. Filippo
+16:20;L-S;Vignola, S. Giorgetto, Sub Sud, Supermercato Coop, Ponte Piano, Bivio S. Filippo, Prato, Vignola
+18:25;L-S;Vignola, S. Giorgetto, Sub Sud, Supermercato Coop, Ponte Piano, Bivio S. Filippo, Prato, Vignola
+;;
+;;
+;;
+04:40;L-S;Casarene (Squibb), Cantina Sociale, Via Casilina, km. 67, Strada Provinciale Anagni/Ferentino (Muraglione), Vignola
+06:55;L-V;Casarene (Squibb), Fontana Ceraso, Osteria La Noce, Via Casilina, km. 67, Strada Provinciale Anagni/Ferentino (Muraglione), Cardinali, Tufano, Vallevona, S. Giorgetto
+07:05;L-S;S. Giorgetto, Strada Provinciale Anagni/Ferentino (Muraglione), Ristorante La Rena, Via Casilina, km. 67, Via Casilina, km. 68, Tufano, Via Madonna di Tufano, Tufano, Vallevona, Vignola
+08:30;L-S;Vignola, S. Giorgetto, Sub Sud, Sub Nord, Strada Provinciale Anagni/Ferentino (Muraglione), Vallevona, Tufano, Via Casilina, km. 68, Via Casilina, km. 67, Strada Provinciale Anagni/Ferentino (Muraglione), Sub Sud, Sub Nord, Vignola
+10:50;L-S;Vignola, S. Giorgetto, Sub Sud, Sub Nord, Strada Provinciale Anagni/Ferentino (Muraglione), Vallevona, Tufano, Via Casilina, km. 68, Via Casilina, km. 67, Strada Provinciale Anagni/Ferentino (Muraglione), Vignola
+12:10;L-S;Vignola, S. Giorgetto, Sub Sud, Sub Nord, Strada Provinciale Anagni/Ferentino (Muraglione), Vallevona, Tufano, Via Casilina, km. 68, Via Casilina, km. 67, Strada Provinciale Anagni/Ferentino (Muraglione), Vignola
+13:30;L-S;Vignola, S. Giorgetto, Sub Sud, Sub Nord, Strada Provinciale Anagni/Ferentino (Muraglione), Vallevona, Tufano, Madonna di Tufano, Tufano, Via Casilina, km. 68, Via Casilina, km. 67, Strada Provinciale Anagni/Ferentino (Muraglione), S. Giorgetto
+14:15;L-S;Vignola, S. Giorgetto, Sub Sud, Sub Nord, Vallevona, Tufano, Madonna di Tufano, Via Casilina, km. 68, Via Casilina, km. 67, Strada Provinciale Anagni/Ferentino (Muraglione), Ristorante La Rena, Osteria La Noce, Fonte Ceraso, Casalotto, Osteria della Fontana, Casarene
+15:15;L-S;Vignola, S. Giorgetto, Sub Sud, Sub Nord, Strada Provinciale Anagni/Ferentino (Muraglione), Vallevona, Tufano, Via Casilina, km. 68, Via Casilina, km. 67, Strada Provinciale Anagni/Ferentino (Muraglione), S. Giorgetto
+18:00;L-S;Vignola, S. Giorgetto, Strada Provinciale Anagni/Ferentino (Muraglione), Vallevona, Tufano, Via Casilina, km. 68, Via Casilina, km. 67, Strada Provinciale Anagni/Ferentino (Muraglione), Vignola
+20:00;L-S;Vignola, S. Giorgetto, Sub Sud, Sub Nord, Vallevona, Tufano, Tufano, Osteria La Noce, Pantanello, Fontana Ceraso, Casarene (Squibb)
+;;
+;;
+;;
+08:25;L-S;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Cava S. Magno, Impianti Sportivi, Osteria della Fontana, Madonna delle Grazie, Sub Nord, Cimitero, Vignola
+09:30;L-S;Vignola, S. Giorgetto, Sub Sud, Cava S. Magno, Osteria della Fontana, Tofe Pistone, Osteria della Fontana, Madonna delle Grazie, Sub Nord, Cimitero, Vignola
+12:30;F;Vignola, S. Giorgetto, Centro Storico, Viale Roma, Cava S. Magno, Impianti Sportivi, Cava S. Magno, Osteria della Fontana
+14:45;L-S;Vignola, S. Giorgetto, Sub Sud, Cava S. Magno, Impianti Sportivi, Cava S. Magno, Osteria della Fontana, Cantina Sociale, Casarene
+16:00;L-S;Vignola, S. Giorgetto, Sub Sud, Cava S. Magno, Impianti Sportivi, Cava S. Magno, Osteria della Fontana, Cantina Sociale, Casarene
+;;
+;;
+;;
+06:25;L-S;Casarene (Squibb), Cantina Sociale, Osteria della Fontana, Cava S. Magno, Impianti Sportivi, Sub Sud, Porta S. Francesco, S. Giorgetto, Vignola
+07:10;L-S;Casarene (Squibb), Via Casalotto, Osteria della Fontana, Cava S. Magno, Impianti Sportivi, Sub Sud, Porta S. Francesco, S. Giorgetto, Vignola
+13:30;L-S;Casarene (Squibb), Cantina Sociale, Osteria della Fontana, Cava S. Magno, Impianti Sportivi, Sub Sud, Porta S. Francesco, S. Giorgetto, Vignola
+;;
+;;
+;;
+07:15;L-V;Casarene (Squibb), Cantina Sociale, Osteria della Fontana, Quattro Strade , S. Bartolomeo
+09:35;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Cucugnano, Faito, Via Ponte del Papa, Strada Ricci, S. Bartolomeo
+11:45;L-S;Vignola, S. Giorgetto, Sub Sud, Cucugnano, Faito, Via Ponte del Papa, Strada Ricci, S. Bartolomeo
+13:30;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Strada Ricci, S. Bartolomeo
+14:15;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Strada Ricci, S. Bartolomeo
+15:20;L-S;Vignola, S. Giorgetto, Sub Sud, Cava S. Magno, Impianti Sportivi, Cava S. Magno, Osteria della Fontana, Tofe Pistone, Osteria della Fontana, Quattro Strade, S. Bartolomeo
+19:00;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Cucugnano, V. Bagnara, V.P. Sabatino, Strada Ricci, S. Bartolomeo
+;;
+;;
+;;
+07:25;L-V;S. Bartolomeo, Strada Ricci, Via Cerere Navicella, Sub Sud, Porta S. Francesco, S. Giorgetto, Strada Provinciale Anagni/Ferentino (Muraglione), Via Casilina, km. 67, Cantina Sociale, Casarene (Squibb)
+07:50;S;S. Bartolomeo, Strada Ricci, Faito, Cucugnano, Ponte Piano, Strada Regionale Anticolana, Sub Nord, Cimitero, Vignola
+10:00;L-S;S. Bartolomeo, Via Casilina, Quattro Strade, Osteria della Fontana, Cava S. Magno, Impianti Sportivi, Sub Nord, Piscina, S. Giorgetto, Vignola
+12:05;L-S;S. Bartolomeo, Via Casilina, Quattro Strade, Osteria della Fontana, Tofe Pistone, Osteria della Fontana, Madonna delle Grazie, Sub Nord, Piscina, S. Giorgetto, Vignola
+13:50;L-S;S. Bartolomeo, Via Casilina, Quattro Strade, Osteria della Fontana, Tofe Pistone, Madonna delle Grazie, Sub Nord, Piscina, S. Giorgetto, Vignola
+14:35;L-S;S. Bartolomeo, Via Casilina, Quattro Strade, Osteria della Fontana, Tofe Pistone, Madonna delle Grazie, Sub Nord, Piscina, S. Giorgetto, Vignola
+15:45;L-S;S. Bartolomeo, Strada Ricci, V.P. Sabatino, V. Bagnara, Cucugnano, Via Cerere Navicella, Sub Nord, Piscina, S. Giorgetto, Vignola
+19:20;L-S;S. Bartolomeo, Via Casilina, Quattro Strade, Osteria della Fontana, Tofe Pistone, Cava S. Magno, Sub Sud, Porta S. Francesco, S. Giorgetto, Vignola
+;;
+;;
+;;
+07:00;L-V;Vignola, Monti, Via Fucigno, Via La Sassera, Strada Provinciale Anagni/Acuto, Ponte Cavatole, Acqua Cetosa, Bivio S. Filippo, Ponte Piano, Cucugnano, Faito, Sub Nord, Piscina, Vignola
+07:30;S;Vignola, Strada Provinciale Anagni/Acuto, Ponte Cavatole, Acqua Cetosa, S. Filippo, Vignola
+10:50;L-S;Vignola, S. Giorgetto, Sub Sud, Ponte Piano, S. Filippo, Ponte Cavatole, Acqua Cetosa, S. Filippo, Vignola
+14:05;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Cucugnano, Faito, Cucugnano, Ponte Piano, Bivio S. Filippo, Acqua Cetosa, Ponte Cavatole, Vignola
+;;
+;;
+;;
+07:00;L-S;Vignola, Monti, Fucigno, Via La Sassera, Strada Provinciale Anagni/Acuto, Ponte Cavatole, Acqua Cetosa, Bivio S. Filippo, P. Piano, Cucugnano, Faito, Sub Nord, Piscina, S. Giorgetto, Vignola
+14:00;L-V;Casarene (Squibb), Osteria della Fontana, Quattro Strade, Sub Sud, Porta S. Francesco, S. Giorgetto, Monti, Prato, S. Filippo, Bivio S. Filippo
+;;
+;;
+;;
+04:55;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+06:00;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+06:45;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+07:45;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+09:45;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+10:52;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+12:52;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+13:55;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+15:00;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+15:55;L-S;S. Giorgetto, Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+16:55;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS, 
+17:55;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+19:00;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+20:00;L-S;Vignola, S. Giorgetto, Sub Sud, Via Cerere Navicella, Bivio Ricci, Via Anticolana, Stazione FS
+;;
+07:10;D-F;Vignola, S. Giorgetto, Circonvallazione, Bivio Ricci, Via Anticolana, Stazione FS
+08:35;D-F;Vignola, S. Giorgetto, Circonvallazione, Bivio Ricci, Via Anticolana
+09:35;D-F;Vignola, S. Giorgetto, Circonvallazione, Bivio Ricci, Via Anticolana
+11:15;D-F;Vignola, S. Giorgetto, Circonvallazione, Bivio Ricci, Via Anticolana
+14:00;D-F;Vignola, S. Giorgetto, Circonvallazione, Bivio Ricci, Via Anticolana
+15:45;D-F;Vignola, S. Giorgetto, Circonvallazione, Bivio Ricci, Via Anticolana
+18:00;D-F;Vignola, S. Giorgetto, Circonvallazione, Bivio Ricci, Via Anticolana
+;;
+;;
+;;
+05:35;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+06:40;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+07:30;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+08:35;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+10:35;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+11:45;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+13:40;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+14:35;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+15:35;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+16:40;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+17:35;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+18:35;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+19:35;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+20:35;L-S;Stazione FS, Strada Regionale Anticolana, Via Cerere Navicella, Sub Sud, S. Giorgetto, Vignola
+;;
+08:00;D-F;Stazione FS, Via Anticolana, Via Cerere Navicella, Sub Nord, Cimitero, S. Giorgetto, Vignola
+09:05;D-F;Stazione FS, Quattro Strade, Via Casilina, Osteria della Fontana, Via Rotabile S. Francesco, Sub Nord, Cimitero, S. Giorgetto, Vignola
+10:05;D-F;Stazione FS, Via Anticolana, Via Cerere Navicella, Sub Nord, Cimitero, S. Giorgetto, Vignola
+11:40;D-F;Stazione FS, Via Anticolana, Via Cerere Navicella, Sub Nord, Cimitero, S. Giorgetto, Vignola
+14:30;D-F;Stazione FS, Via Anticolana, Via Cerere Navicella, Sub Nord, Cimitero, S. Giorgetto, Vignola
+16:30;D-F;Stazione FS, Via Anticolana, Via Cerere Navicella, Sub Nord, Cimitero, S. Giorgetto, Vignola
+18:30;D-F;Stazione FS, Via Anticolana, Via Cerere Navicella, Sub Nord, Cimitero, S. Giorgetto, Vignola
+;;
+;;
+;;
+07:30;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Viale G. Matteotti, Colleggio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+08:00;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Viale G. Matteotti, Colleggio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+08:30;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Viale G. Matteotti, Colleggio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, Vignola, 
+09:00;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Ex Tribunale, Ufficio Postale, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, Vignola
+09:30;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Viale G. Matteotti, Colleggio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, Vignola, 
+10:00;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Ex Tribunale, Ufficio Postale, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, Vignola
+10:30;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Viale G. Matteotti, Colleggio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, Vignola, 
+11:00;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Ex Tribunale, Ufficio Postale, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, Vignola
+11:30;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Viale G. Matteotti, Colleggio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, Vignola, 
+12:00;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Viale G. Matteotti, Colleggio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+12:30;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Viale G. Matteotti, Colleggio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+13:00;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Viale G. Matteotti, Colleggio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+13:40;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Viale G. Matteotti, Colleggio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+14:10;L-S (no Mercoled�);Vignola , S. Giorgetto, Centro Storico, Porta S. Maria, Porta Cerere, Viale G. Matteotti, Colleggio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+;;
+10:30;D-F;Vignola, S. Giorgetto, Centro Storico, Porta S. Maria, Via V. Emanuele, Porta Cerere, Convitto R. Margherita, Viale Roma, Ist. Tecnico
+12:00;D-F;Vignola, S. Giorgetto, Centro Storico, Porta S. Maria, Via V. Emanuele, Porta Cerere, Convitto R. Margherita, Viale Roma, Ist. Tecnico
+12:30;D-F;Vignola, S. Giorgetto, Centro Storico, Porta S. Maria, Via V. Emanuele, Porta Cerere, Convitto R. Margherita, Viale Roma, Ist. Tecnico
+17:00;D-F;Vignola, S. Giorgetto, Centro Storico, Porta S. Maria, Via V. Emanuele, Porta Cerere, Convitto R. Margherita, Viale Roma, Ist. Tecnico
+17:30;D-F;Vignola, S. Giorgetto, Centro Storico, Porta S. Maria, Via V. Emanuele, Porta Cerere, Convitto R. Margherita, Viale Roma, Ist. Tecnico
+;;
+08:10;D-F;Ist. Tecnico, Via Cerere Navicella, Viale Roma, Convitto Regina Martgherita, Bar Rossi, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+08:20;D-F;Ist. Tecnico, Via Cerere Navicella, Viale Roma, Convitto Regina Martgherita, Bar Rossi, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+10:15;D-F;Ist. Tecnico, Via Cerere Navicella, Viale Roma, Convitto Regina Martgherita, Bar Rossi, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+10:45;D-F;Ist. Tecnico, Via Cerere Navicella, Viale Roma, Convitto Regina Martgherita, Bar Rossi, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+11:50;D-F;Ist. Tecnico, Via Cerere Navicella, Viale Roma, Convitto Regina Martgherita, Bar Rossi, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+12:15;D-F;Ist. Tecnico, Via Cerere Navicella, Viale Roma, Convitto Regina Martgherita, Bar Rossi, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+14:40;D-F;Ist. Tecnico, Via Cerere Navicella, Viale Roma, Convitto Regina Martgherita, Bar Rossi, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+15:40;D-F;Ist. Tecnico, Via Cerere Navicella, Viale Roma, Convitto Regina Martgherita, Bar Rossi, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+17:15;D-F;Ist. Tecnico, Via Cerere Navicella, Viale Roma, Convitto Regina Martgherita, Bar Rossi, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+17:45;D-F;Ist. Tecnico, Via Cerere Navicella, Viale Roma, Convitto Regina Martgherita, Bar Rossi, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+18:40;D-F;Ist. Tecnico, Via Cerere Navicella, Viale Roma, Convitto Regina Martgherita, Bar Rossi, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+;;
+07:30;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+08:00;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+08:30;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+09:00;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Ex Tribunale, Ufficio Postale, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+09:30;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+10:00;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Ex Tribunale, Ufficio Postale, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+10:30;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+11:00;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Ex Tribunale, Ufficio Postale, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+11:30;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+12:00;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+12:30;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+13:00;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+13:40;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
+14:10;Mercoled�;Vignola, S. Giorgetto, Sub Sud, Porta S. Francesco, Viale G. Matteotti, Collegio Leoniano, Viale G. Matteotti, Sub Nord, Piscina, Cimitero, S. Giorgetto, Vignola
